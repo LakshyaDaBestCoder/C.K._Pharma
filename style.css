@@ -1,0 +1,32 @@
+.background{
+    background-color: #DFDFDD;
+    align-items: center;
+}
+
+h2{
+    font: sans-serif;
+    color: red;
+    text-overflow: bold;
+    align-self: center;
+}
+
+h3{
+    font: sans-serif;
+    color: orange;
+    text-overflow: bold;
+    align-self: center;
+}
+
+.mark{
+    font: sans-serif;
+    color: red;
+    text-overflow: bold;
+    align-self: center;
+    background-color:yellow;
+    height: "10%";
+}
+
+Button{
+    height: "20px";
+    width: "50px";
+}
